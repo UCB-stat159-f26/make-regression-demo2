@@ -51,7 +51,7 @@ make clean
 ## File structure
 
 ```
-make-regression-demo/
+make-regression-demo2/
   README
   code/
     01-generate_data.R
